@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">hwText</string>
+    <string name="name_input_hint">Name</string>
+    <string name="surname_input_hint">Surname</string>
+    <string name="add_person_placeholder">Add new person</string>
+    <string name="error_message">Enter at least 4 letters starting with capital</string>
+</resources>
